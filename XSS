@@ -1,0 +1,6 @@
+https://www.thehacker.recipes/web/inputs/xss
+https://htmlacademy.ru/blog/js/xss?amp=1
+https://habr.com/ru/amp/publications/717896/
+
+
+Нужно в коде страницы поменять img src="#" и добавить сообщение тревоги (alert) (если фотка)
