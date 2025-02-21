@@ -1,0 +1,8 @@
+
+# Path
+gobuster dir -u http://10.10.10.121/ -w /usr/share/seclists/Discovery/Web-Content/common.txt
+dirsearch -u 10.0.10.55
+dirb http://ctf.hackatom.ru:port/
+
+# Subdomain name
+gobuster dns -d inlanefreight.com -w /usr/share/SecLists/Discovery/DNS/namelist.txt
