@@ -1,0 +1,6 @@
+smtp-user-enum -M VRFY -U ./shortlist.txt -D domain.com -t 10.0.0.0
+
+
+
+check emails even with small letters
+# if we have big ones
